@@ -54,7 +54,7 @@ The model learns to classify digits by identifying pixel-level features and achi
 
 ### 🪶 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/digit-recognizer-cnn.git
+git clone https://github.com/janhvik16/digit-recognizer-cnn.git
 cd digit-recognizer-cnn
 ```
 
@@ -135,13 +135,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - Inspired by open-source deep learning tutorials and Kaggle notebooks.
 
 ---
-
-## 🚀 Next Steps
-- Add **Dropout layers** to prevent overfitting  
-- Integrate **TensorBoard** for advanced monitoring  
-- Deploy model via **Streamlit** or **FastAPI**  
-- Extend to **Fashion MNIST** for more complex images  
-
----
-
-> 💬 *"A simple project that teaches you how machines see the world — one pixel at a time."*
